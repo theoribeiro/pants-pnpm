@@ -1,0 +1,4 @@
+node_modules
+.pnpm
+.pants.d
+.pids
